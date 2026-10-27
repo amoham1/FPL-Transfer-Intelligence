@@ -10,3 +10,8 @@ __pycache__/
 
 # PyCharm project settings
 .idea/
+
+# Local SQLite database files
+*.db
+*.db-shm
+*.db-wal
